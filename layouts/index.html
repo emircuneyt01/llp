@@ -6,8 +6,9 @@
     <div class="vertical">
         <div id="site-head-content" class="inner">
 
-            {{ with .Params.header_headline }}<h1 class="blog-title">{{ . }}</h1>{{ end }}
-            {{ with .Params.header_subheadline }}<h2 class="blog-description">{{ . }}</h2>{{ end }}
+
+            {{ with .Params.header_subheadline }}<h1 class="blog-title">{{ . }}</h1>{{ end }}
+            {{ with .Params.header_headline }}<h2 class="blog-description">{{ . }}</h2>{{ end }}
 
             {{ range where $sections ".Params.header_menu" "eq" true }}
                  <a class='btn site-menu' data-title-anchor='{{ anchorize .Title }}'>{{ .Title }}</a>
@@ -34,4 +35,66 @@
         </div>
     {{ end }}
 </main>
+
+<form  action="https://formspree.io/f/xvoyrkqg" method="POST">      
+<input name="name" type="text" class="feedback-input" placeholder="Name" />   
+<input name="email" type="text" class="feedback-input" placeholder="Email" />
+<input name="company" type="text" class="feedback-input" placeholder="Company" />
+<input name="phone" type="text" class="feedback-input" placeholder="Phone" />
+<textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+<input type="submit" value="SUBMIT"/>
+</form>
+
+<style>
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body { background:#548687; }
+form { max-width:420px; margin:50px auto; }
+
+.feedback-input {
+color:white;
+font-family: Helvetica, Arial, sans-serif;
+font-weight:500;
+font-size: 18px;
+border-radius: 5px;
+line-height: 22px;
+background-color: transparent;
+border:2px solid #0D1821;
+transition: all 0.3s;
+padding: 13px;
+margin-bottom: 15px;
+width:100%;
+box-sizing: border-box;
+outline:0;
+}
+
+.feedback-input:focus { border:2px solid #0D1821; }
+
+textarea {
+height: 150px;
+line-height: 150%;
+resize:vertical;
+}
+
+[type="submit"] {
+font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+width: 100%;
+background:#0D1821;
+border-radius:5px;
+border:0;
+cursor:pointer;
+color:white;
+font-size:24px;
+padding-top:10px;
+padding-bottom:10px;
+transition: all 0.3s;
+margin-top:-4px;
+font-weight:700;
+}
+[type="submit"]:hover { background:#0D1821; }
+
+
+</style>
+
 {{ end }}
+

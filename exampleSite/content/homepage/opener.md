@@ -1,10 +1,12 @@
 ---
-title: "Welcome"
+title: "What is Cybersecurity Awareness?"
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+Hackers use different techniques for different organizations. <br> Awareness contents should be different too.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
+Cybersecurity starts with mentality, many organizations provide their employees a cybersecurity awareness programs frequently. The reasoning behind this is to keep their employees knowledge about cyber-attacks up to date, giving them a better understanding of the consequences of a successful attack and how to identify them.
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+Hackers tend to think different than many others. Everyday cybersecurity related events evolve and change their shape. It’s too rare to find an example where hackers used the same technique again and again. A perfect example for this would be the word “bypass”. Bypassing malware detection, WAF’s and Human Mind. Almost %90 of the cyber-attacks has one thing in common, Social Engineering. That’s one of the reasons why people need to get a customized and updated awareness material all the time.
+
+By working with you we create a Cybersecurity Awareness. Simply, we involve you in our awareness programs build process and let you shape it with us.

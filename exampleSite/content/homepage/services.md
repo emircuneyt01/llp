@@ -4,34 +4,24 @@ weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+---
+
+## Cybersecurity Awareness Training
+
+We'll help you to create a training specifically targeting your organisation. 
+First of all, together we are planning how your training is going to be. Then, your trainings build process, where we create all necessary parts, will start.
+Finally, you are going to have access to your training environment.
+
+![Nice picture to make you pay me ;-)](images/t1.png)
 
 ---
 
-## Nutrition Coaching
+## Cybersecurity Consultancy 
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+We can help you to shape and build your organisations cybersecurity. 
+Solving your security related issues, doing researches, gathering information from the tools you've wanted to learn and more..
+At Lessploit, we are promising that our consultancy will be your best partner during this extra hard process of cybersecurity.
 
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
-
----
-
-## Chef Consulting
-
-Did you see the picture above? I can show you how to go from
-
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
-
-to
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
+![Let us get started on a clean slate](images/con.png)
 
 ---
-
-Want to learn more about my services?
-
-Check out [this page](services) I created. It carries a lot more details...
